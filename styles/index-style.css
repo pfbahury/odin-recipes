@@ -10,7 +10,7 @@ body{
     
 }
 
-.container {
+main {
     background-color: white;
     flex-direction: row;
     align-items: center;
