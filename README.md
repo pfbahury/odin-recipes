@@ -1,2 +1,2 @@
 # odin-recipes
-This repository
+Quick HTML practice
